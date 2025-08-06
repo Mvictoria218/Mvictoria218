@@ -16,3 +16,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mvictoria218&layout=compact&langs_count=10&theme=react"/>
 </a>
 </div>
+
+## 𓆝 𓆟 𓆞 𓆝 𓆟 Entre contato!
+
+🖥️ - LinkdIn: [in/mirele-victoria-santos-sousa](https://www.linkedin.com/in/mirele-vict%C3%B3ria-santos-sousa-7aa116379/) <br>
+✉ - Email: mirelevictoria08@gmail.com <br>
+📽 - Portfólio: [MireleV](https://portfolio-r1y4.onrender.com/)
+     
